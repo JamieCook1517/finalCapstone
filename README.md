@@ -14,6 +14,7 @@ Code project which manages tasks, enabling users to add, view or edit tasks upon
 
 Before using the program make sure that on VSCode you are using at least the basic Python extension so that you can click on the 'play' icon on the top right of the window to run the code.
 
+![Test](screenshot1.png)
 
 ## Credits
 
